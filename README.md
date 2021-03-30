@@ -1,30 +1,36 @@
 # School_District_Analysis
-#Overview
-We used some student and school data to inform some decisions in teh schol an d district level. 
-We analyzed student's funding and student's standardized test (maths and reading) score. We agrregated and showcased teh trends in school performance
-our analysis aimed to assist the school board in making informed decisions in school budget and priorities.
 
-Results: Using bulleted lists and images of DataFrames as support, address the following questions.
+## Overview
 
-How is the district summary affected?
+We used some student and school data to inform some decisions in the schol and district level. The analsis of student's funding and student's standardized test (maths and reading) score was used to agrregate and showcase the trends in school performance
+
+### Purpose
+Our analysis aimed to assist the school board in making informed decisions in school budget and priorities.
+
+## Results
+
+> #### District Summary
 The test code displayed an overall passing percentage of 65.2 and Average reading and math passing percentage as
 81.9 and 74.9 respectively, after removing the 9th grade reading and math score, the overall reading and math score 
-were 64.9 , 81.9 and 74.8. 
+were 64.9% , 81.9% and 74.8% for overall passing percentage. 
 
-png district summary
 
-How is the school summary affected?
-School summary indicated that the charter school district contains schools taht are in teh top five schools and most of the least schools are district schools
+![](School_District_Analysis/District_Summary.png)
+
+> #### School Summary 
+School summary indicated that the charter school district contains schools that are in the top five schools and most of the least schools are district schools
 The overall passing percentage is in the 90s and the passing reading and math percentage scores are in the 90s.
-Whereas, after removing the 9th grade, 
-
-png school summary
 
 
+![](School_District_Analysis/School_Summary.png)
 
-How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
-The passing percentage for reading and maths after replacing the ninth grader's was 66.9 and 69.6 with an overall passing percentage of 65.1 compared 
-9th_grade_nan
+
+
+> #### Effect of Replacing the ninth graders’ math and reading scores on Thomas High School’s performance relative to the other schools
+The passing percentage for reading and maths after replacing the ninth grader's was 66.9% and 69.6% with an overall passing percentage of 65.1% 
+
+
+![](School_District_Analysis/9th_grade_nan.png)
 
 
 
