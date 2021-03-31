@@ -25,7 +25,6 @@ The overall passing percentage is in the 90s and the passing reading and math pe
 ![](School_District_Analysis/School_Summary.png)
 
 
-
 > #### Effect of Replacing the ninth graders’ math and reading scores on Thomas High School’s performance relative to the other schools
 The passing percentage for reading and maths after replacing the ninth grader's was 66.9% and 69.6% with an overall passing percentage of 65.1% 
 
@@ -33,23 +32,32 @@ The passing percentage for reading and maths after replacing the ninth grader's 
 ![](School_District_Analysis/9th_grade_nan.png)
 
 
+> #### Effect of replacing the ninth-grade scores on:
+ 
+    . Math and reading scores by grade
 
-How does replacing the ninth-grade scores affect the following:
-Math and reading scores by grade
+    . Scores by school spending
+The maximum spending per student was $655  when the 9th grade score was removed compared to the maximum spending at $675 with 9th graders score, it shows less money was spent per student
 
-Scores by school spending
-The max spending per student was $655  when the 9th grade score was removed compared to the maximum spending at $675 with 9th graders score, it shows less money was spent per student
-png spending_9
-png spending_no_9
 
-Scores by school size
+![](School_District_Analysis/spending_9.png)
+
+
+![](School_District_Analysis/spending_no_9.png)
+
+
+    . Scores by school size
 There is no difference in the school size when maths score was included and removed for the analysis
-png size
 
-Scores by school type
-there is no significant difference in the school type
-png type_with_9
-png type_no_9
+![](School_District_Analysis/size.png)
+
+    . Scores by school type
+There is no significant difference in the school type
+
+![](School_District_Analysis/type_with_9.png)
+
+
+![](School_District_Analysis/type_no_9.png)
 
 Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 The major changes I noticed include:
