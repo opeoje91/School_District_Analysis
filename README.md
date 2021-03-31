@@ -65,4 +65,4 @@ The major changes I noticed include:
 2. there is a little reduction on the budget when the 9th grade score was removed
 3. there is no significant change in the school size
 4. there is no significant change in the school type
-These  removal confirmed the suspicion of teh school board about th dishonesty involved in Thomas High School
+These  removal confirmed the suspicion of the school board about the dishonesty involved in Thomas High School
