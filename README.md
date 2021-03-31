@@ -35,6 +35,14 @@ The passing percentage for reading and maths after replacing the ninth grader's 
 > #### Effect of replacing the ninth-grade scores on:
  
     . Math and reading scores by grade
+    
+There was no significant change in the reading and maths score after replacing the ninth-grade scores
+
+![](all_9.png)
+
+
+![](all_no_9.png)
+
 
     . Scores by school spending
 The maximum spending per student was $655  when the 9th grade score was removed compared to the maximum spending at $675 with 9th graders score, it shows less money was spent per student
